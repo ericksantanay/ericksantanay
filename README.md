@@ -32,7 +32,7 @@ Meu objetivo é criar aplicações funcionais, bem construídas e que realmente 
 ## 📌 Projetos em Destaque
 🔗 **Gerenciador de Contatos**  
 Um CRUD simples feito com JavaScript manipulando LocalStorage para salvar dados.  
-[➡️ Ver projeto](https://ericksantanay.github.io/GerenciadorDeContatos/)
+[➡️ Ver projeto](https://ericksantanay.github.io/gerenciador-contatos-js/)
 
 🔗 **Landing Page – Pet Shop**  
 Landing page moderna totalmente responsiva.  
