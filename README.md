@@ -60,8 +60,7 @@ Aplicando Flexbox e boas práticas.
 ---
 
 ## 📫 Como me encontrar
-📧 **Email:** coloque aqui  
-💼 **LinkedIn:** coloque aqui  
+💼 **LinkedIn:** https://www.linkedin.com/in/erick-santana-39b6a6275/ 
 
 
 
