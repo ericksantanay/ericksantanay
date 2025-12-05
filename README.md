@@ -40,7 +40,7 @@ Landing page moderna totalmente responsiva.
 
 🔗 **Landing Page – Consultoria de Marketing**  
 Aplicando Flexbox e boas práticas.  
-[➡️ Ver projeto](https://ericksantanay.github.io/ConsultoriaDeMarketing02/)
+[➡️ Ver projeto](https://ericksantanay.github.io/consultoria-marketing/)
 
 ---
 
