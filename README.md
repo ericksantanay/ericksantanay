@@ -1,4 +1,4 @@
-## 👋 Olá! Eu sou o Erick Santana
+## 👋 Olá! Eu sou o Erick Santana  
 **Desenvolvedor Front-End**
 
 Sou um programador iniciante apaixonado por tecnologia e desenvolvimento web.  
@@ -31,27 +31,22 @@ Meu objetivo é criar aplicações funcionais, bem construídas e que realmente 
 
 ## 📌 Projetos em Destaque
 
-
 🔗 **Gerenciador de Contatos**  
 Um CRUD simples feito com JavaScript manipulando LocalStorage para salvar dados.  
 [➡️ Ver projeto](https://ericksantanay.github.io/gerenciador-contatos-js/)
-
-
 
 🔗 **Landing Page – Pet Shop**  
 Landing page moderna totalmente responsiva.  
 [➡️ Ver projeto](https://ericksantanay.github.io/PetShop/)
 
-
 🔗 **Landing Page – Consultoria de Marketing**  
 Aplicando Flexbox e boas práticas.  
 [➡️ Ver projeto](https://ericksantanay.github.io/consultoria-marketing/)
 
+🔗 **Relógio Digital**  
+Relógio digital feito com JavaScript, utilizando manipulação de datas e `setInterval()` para atualizar em tempo real.  
+[➡️ Ver projeto](https://ericksantanay.github.io/relogio-js/)
 
-  
-🔗 **Relógio Digital **
-Relógio digital feito com JavaScript, utilizando manipulação de datas e setInterval() para atualizar em tempo real.
-➡️ Ver projeto
 ---
 
 ## 🧠 Atualmente estudando
@@ -70,8 +65,7 @@ Relógio digital feito com JavaScript, utilizando manipulação de datas e setIn
 ---
 
 ## 📫 Como me encontrar
-💼 **LinkedIn:** https://www.linkedin.com/in/erick-santana-39b6a6275/ 
-
+💼 **LinkedIn:** https://www.linkedin.com/in/erick-santana-39b6a6275/  
 
 
 <!--
