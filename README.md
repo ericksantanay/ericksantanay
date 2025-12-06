@@ -30,20 +30,27 @@ Meu objetivo é criar aplicações funcionais, bem construídas e que realmente 
 ---
 
 ## 📌 Projetos em Destaque
+
+
 🔗 **Gerenciador de Contatos**  
 Um CRUD simples feito com JavaScript manipulando LocalStorage para salvar dados.  
 [➡️ Ver projeto](https://ericksantanay.github.io/gerenciador-contatos-js/)
+
+
 
 🔗 **Landing Page – Pet Shop**  
 Landing page moderna totalmente responsiva.  
 [➡️ Ver projeto](https://ericksantanay.github.io/PetShop/)
 
+
 🔗 **Landing Page – Consultoria de Marketing**  
 Aplicando Flexbox e boas práticas.  
 [➡️ Ver projeto](https://ericksantanay.github.io/consultoria-marketing/)
 
-🔗 **Relogio Digital – Relogio Digital**  
-Um Relogio Digital ultilizando Java Script manipulando as datas e usando o setInterval.
+
+  
+🔗 **Relogio Digital – Relogio Digital**
+Relógio digital feito com JavaScript, usando manipulação de datas e setInterval() para atualizar o horário em tempo real.
 [➡️ Ver projeto](https://ericksantanay.github.io/relogio-js/)
 ---
 
