@@ -44,7 +44,7 @@ Aplicando Flexbox e boas práticas.
 
 🔗 **Relogio Digital – Relogio Digital**  
 Um Relogio Digital ultilizando Java Script manipulando as datas e usando o setInterval.
-[ Ver projeto] (https://ericksantanay.github.io/relogio-js/)
+[➡️ Ver projeto](https://ericksantanay.github.io/relogio-js/)
 ---
 
 ## 🧠 Atualmente estudando
