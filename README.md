@@ -49,9 +49,9 @@ Aplicando Flexbox e boas práticas.
 
 
   
-🔗 **Relogio Digital – Relogio Digital**
-Relógio digital feito com JavaScript, usando manipulação de datas e setInterval() para atualizar o horário em tempo real.
-[➡️ Ver projeto](https://ericksantanay.github.io/relogio-js/)
+🔗 **Relógio Digital **
+Relógio digital feito com JavaScript, utilizando manipulação de datas e setInterval() para atualizar em tempo real.
+➡️ Ver projeto
 ---
 
 ## 🧠 Atualmente estudando
