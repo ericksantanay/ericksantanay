@@ -47,6 +47,11 @@ Aplicando Flexbox e boas práticas.
 Relógio digital feito com JavaScript, utilizando manipulação de datas e `setInterval()` para atualizar em tempo real.  
 [➡️ Ver projeto](https://ericksantanay.github.io/relogio-js/)
 
+🔗 **Cronômetro em JavaScript**  
+Cronômetro funcional desenvolvido com `setInterval()`, manipulação de DOM e lógica própria para contagem de milissegundos, segundos, minutos e horas.  
+[➡️ Ver projeto](https://ericksantanay.github.io/cronometro-js/)
+
+
 ---
 
 ## 🧠 Atualmente estudando
