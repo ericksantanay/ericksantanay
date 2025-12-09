@@ -51,6 +51,12 @@ Relógio digital feito com JavaScript, utilizando manipulação de datas e `setI
 Cronômetro funcional desenvolvido com `setInterval()`, manipulação de DOM e lógica própria para contagem de milissegundos, segundos, minutos e horas.  
 [➡️ Ver projeto](https://ericksantanay.github.io/cronometro-js/)
 
+🔗 **Controle de Gastos Simples (JavaScript)**  
+Aplicação que permite adicionar, listar e remover gastos. O total é calculado automaticamente em tempo real.  
+Desenvolvido para praticar manipulação de DOM, arrays, funções e lógica de programação.  
+[➡️ Ver projeto](https://ericksantanay.github.io/controle-de-gastos-simples-js/)
+
+
 
 ---
 
