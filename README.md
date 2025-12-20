@@ -57,6 +57,12 @@ Desenvolvido para praticar manipulação de DOM, arrays, funções e lógica de 
 [➡️ Ver projeto](https://ericksantanay.github.io/controle-de-gastos-simples-js/)
 
 
+🔗 **Sistema de Alunos (JavaScript)**  
+Sistema de gerenciamento de alunos que permite cadastrar nomes e notas, calcular média geral da turma, identificar maior e menor nota e exibir o status do aluno (aprovado, recuperação ou reprovado) com feedback visual por cores.  
+Projeto desenvolvido para praticar lógica de programação e manipulação do DOM com JavaScript puro.  
+[➡️ Ver projeto](https://ericksantanay.github.io/sistema-de-alunos-js/)
+
+
 
 ---
 
