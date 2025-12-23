@@ -62,6 +62,11 @@ Sistema de gerenciamento de alunos que permite cadastrar nomes e notas, calcular
 Projeto desenvolvido para praticar lógica de programação e manipulação do DOM com JavaScript puro.  
 [➡️ Ver projeto](https://ericksantanay.github.io/sistema-de-alunos-js/)
 
+🔗 **Jogo da Forca (JavaScript)**  
+Jogo da forca desenvolvido com JavaScript puro, onde o usuário tenta adivinhar a palavra letra por letra antes que o boneco seja completamente desenhado.  
+O projeto possui validação de letras repetidas, verificação de vitória e derrota, feedback visual com imagens e reinício automático do jogo.  
+Desenvolvido para praticar lógica de programação, arrays, condicionais e manipulação do DOM.  
+[➡️ Ver projeto](https://ericksantanay.github.io/jogo-da-forca-js/)
 
 
 ---
